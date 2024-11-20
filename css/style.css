@@ -1,8 +1,0 @@
-.section-one{
-    background-color: var(--color-one);
-    height: 125px;
-    position: sticky;
-    top:0;
-    z-index: 100;
-    
-}
